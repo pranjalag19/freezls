@@ -1,0 +1,12 @@
+.DS_store
+.dist
+.jshintignore
+.npm
+.project
+.tern-project
+coverage
+nodes/node-red-nodes/
+node_modules
+public
+locales/zz-ZZ
+nodes/core/locales/zz-ZZ
